@@ -1,4 +1,4 @@
-program simpleswfconvertor;
+program simpleswfconverter;
 
 {$mode objfpc}{$H+}
 
@@ -7,7 +7,7 @@ uses
   cthreads,
   {$ENDIF}{$ENDIF}
   Interfaces, // this includes the LCL widgetset
-  Forms, simpleswfconvertorcode
+  Forms, simpleswfconvertercode
   { you can add units after this };
 
 {$R *.res}

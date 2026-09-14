@@ -1,6 +1,6 @@
-                                Simple SWF convertor
+                                Simple SWF converter
 
-                                  Version 2.0.6
+                                  Version 2.0.7
 
                          This software was made by Popov Evgeniy Alekseyevich
 
@@ -11,14 +11,14 @@ Windows Vista or higher for 64-bit systems.
 
 The program description.
 
-Simple SWF convertor is a powerful tool with a simple interface.
+Simple SWF converter is a powerful tool with a simple interface.
 It lets you convert an Adobe Flash movie to a standalone movie.
 A standalone movie is an executable file. It combines the built-in player and the Flash movie in one file.
 
 The additional software.
 
 You can take the Flash Player Projector here: https://archive.org/details/flash-projectors
-Put it in the Simple SWF convertor directory.
+Put it in the Simple SWF converter directory.
 
 License.
 
@@ -77,3 +77,4 @@ Version history.
 2.0.2-2.0.3: The small changes.
 2.0.4: A small bug has been fixed.
 2.0.5-2.0.6: The small changes.
+2.0.7: The project has been changed.

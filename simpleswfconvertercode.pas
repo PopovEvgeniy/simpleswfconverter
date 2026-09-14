@@ -1,4 +1,4 @@
-unit simpleswfconvertorcode;
+unit simpleswfconvertercode;
 
 {
  This sofware was made by Popov Evgeniy Alekseyevich.
@@ -54,8 +54,8 @@ end;
 
 procedure TMainWindow.window_setup();
 begin
- Application.Title:='Simple SWF convertor';
- Self.Caption:='Simple SWF convertor 2.0.6';
+ Application.Title:='Simple SWF converter';
+ Self.Caption:='Simple SWF converter 2.0.7';
  Self.BorderStyle:=bsDialog;
  Self.Font.Name:=Screen.MenuFont.Name;
  Self.Font.Size:=14;
