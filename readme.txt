@@ -1,6 +1,6 @@
                                 Simple SWF converter
 
-                                  Version 2.0.7
+                                  Version 2.0.7.1
 
                          This software was made by Popov Evgeniy Alekseyevich
 
@@ -33,21 +33,21 @@ Version history.
 
 0.1: The initial version.
 0.2-0.4: The small changes.
-0.5: A small bug has been fixed.
+0.5: The small bug has been fixed.
 0.6: The small changes.
-0.7-0.8: A small bug has been fixed.
-0.9: The user interface has improved.
+0.7-0.8: The small bug has been fixed.
+0.9: The user interface has been improved.
 1.0: The batch conversion mode has been added.
-1.1: A small bug has been fixed.
+1.1: The small bug has been fixed.
 1.2-1.5: The small changes.
-1.6: The user interface has improved.
+1.6: The user interface has been improved.
 1.6.0.1-1.6.0.3: The documentation has been updated.
 1.6.1-1.6.2: The small changes.
-1.6.3: A small bug has been fixed.
+1.6.3: The small bug has been fixed.
 1.6.4-1.6.9: The small changes.
-1.7: The file processing has improved.
-1.7.1: A small bug has been fixed.
-1.7.2: The user interface has improved.
+1.7: The file processing has been improved.
+1.7.1: The small bug has been fixed.
+1.7.2: The user interface has been improved.
 1.7.2.1: The documentation has been updated.
 1.7.3: The small changes.
 1.7.3.1-1.7.3.2: The documentation has been updated.
@@ -56,25 +56,26 @@ Version history.
 1.7.5.1: The documentation has been updated.
 1.7.6: The source code was recompiled under Lazarus 4.2.
 1.7.7: The small changes.
-1.7.8: The user interface has improved.
+1.7.8: The user interface has been improved.
 1.7.9-1.8.3: The small changes.
-1.8.4: A small bug has been fixed.
+1.8.4: The small bug has been fixed.
 1.8.5-1.8.6: The small changes.
-1.8.7: The file processing has improved.
-1.8.8: A small bug has been fixed.
+1.8.7: The file processing has been improved.
+1.8.8: The small bug has been fixed.
 1.8.9: The small changes.
-1.9: The user interface has improved.
+1.9: The user interface has been improved.
 1.9.1: The small changes.
-1.9.2: The user interface has improved.
+1.9.2: The user interface has been improved.
 1.9.3: The batch conversion mode has been removed.
-1.9.4: The user interface has improved.
+1.9.4: The user interface has been improved.
 1.9.5: The small changes.
-1.9.6: The user interface has improved.
+1.9.6: The user interface has been improved.
 1.9.7: The small changes.
-1.9.8: The memory usage has reduced.
+1.9.8: The memory usage has been reduced.
 1.9.9-2.0: The small changes.
-2.0.1: The file processing has improved.
+2.0.1: The file processing has been improved.
 2.0.2-2.0.3: The small changes.
-2.0.4: A small bug has been fixed.
+2.0.4: The small bug has been fixed.
 2.0.5-2.0.6: The small changes.
 2.0.7: The project has been changed.
+2.0.7.1: The documentation has been updated.
